@@ -1,0 +1,13 @@
+[user]
+	name = pgmgent-dylanw
+	email = dylan.willems@student.arteveldehs.be
+[url "https://"]
+	insteadOf = git://
+[core]
+	editor = code --wait
+[merge]
+	tool = vscodemerge
+[mergetool "vscodemerge"]
+	trustExitCode = false
+[diff]
+	external = code

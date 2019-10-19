@@ -1,0 +1,2 @@
+C:\Users\dylan\obj\Debug\netcoreapp3.0\dylan.csprojAssemblyReference.cache
+C:\Users\dylan\obj\Debug\netcoreapp3.0\dylan.csproj.GenerateResource.cache

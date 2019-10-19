@@ -1,0 +1,11 @@
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les3\bin\Debug\netcoreapp3.0\Les3.exe
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les3\bin\Debug\netcoreapp3.0\Les3.deps.json
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les3\bin\Debug\netcoreapp3.0\Les3.runtimeconfig.json
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les3\bin\Debug\netcoreapp3.0\Les3.runtimeconfig.dev.json
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les3\bin\Debug\netcoreapp3.0\Les3.dll
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les3\bin\Debug\netcoreapp3.0\Les3.pdb
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les3\obj\Debug\netcoreapp3.0\Les3.csprojAssemblyReference.cache
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les3\obj\Debug\netcoreapp3.0\Les3.AssemblyInfoInputs.cache
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les3\obj\Debug\netcoreapp3.0\Les3.AssemblyInfo.cs
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les3\obj\Debug\netcoreapp3.0\Les3.dll
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les3\obj\Debug\netcoreapp3.0\Les3.pdb

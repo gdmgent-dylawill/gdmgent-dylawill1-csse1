@@ -6,7 +6,7 @@ namespace Oefening3
     {
         static void Main(string[] args)
         {
-            // DEEL A (while loop) - zelfde als oef 2 maar met WHILE loop
+        // DEEL A (while loop) - zelfde als oef 2 maar met WHILE loop
             Console.WriteLine("-- Oef 3: DEEL A --");
             
             // Declaratie variabelen
@@ -20,7 +20,7 @@ namespace Oefening3
                i++;
             }
 
-            // DEEL B (do while loop) - zelfde als oef 2 maar met DO WHILE loop
+        // DEEL B (do while loop) - zelfde als oef 2 maar met DO WHILE loop
             // Wordt dus minstens 1 keer uitgevoerd
             Console.WriteLine("-- Oef 3: DEEL B --");
             
