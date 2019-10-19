@@ -19,9 +19,9 @@ namespace Les4
 
             Console.WriteLine(cels);
 
-            Boolean testBool;
+            // Boolean testBool;
             // testBool = true;
-            Console.WriteLine(testBool.ToString());
+            // Console.WriteLine(testBool.ToString());
 
             // ------------------------------------------------------------------------------------------ //
 
@@ -56,13 +56,22 @@ namespace Les4
             int x = 14;
             int y = 8;
             int result1 = x + y; // result1 = 22
-            int result2 = x - y; // result2 = 
-            int result3 = x * y; // result3 =
-            int result4 = x / y; // result4 =
-            int result5 = x % y; // result5 =
-            int result6 = x + y; // result6 =
+            int result2 = x - y; // result2 = 6
+            int result3 = x * y; // result3 = 112
+            int result4 = x / y; // result4 = 1
+            int result5 = x % y; // result5 = 6
+            int result6 = x + y; // result6 = 22
             int result7 = --y; // result7 = 7
             int result8 = ++x; // result8 = 15, x = 15
+            Console.WriteLine("r1: " + result1);
+            Console.WriteLine("r2: " + result2);
+            Console.WriteLine("r3: " + result3);
+            Console.WriteLine("r4: " + result4);
+            Console.WriteLine("r5: " + result5);
+            Console.WriteLine("r6: " + result6);
+            Console.WriteLine("r7: " + result7);
+            Console.WriteLine("r8: " + result8);
+
 
             // Voorbeelden met decimal waarden
             decimal a = 8.5m;
