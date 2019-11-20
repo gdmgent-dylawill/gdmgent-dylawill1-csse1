@@ -1,0 +1,11 @@
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Opdrachten\Opdracht6\bin\Debug\netcoreapp3.0\Opdracht6.exe
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Opdrachten\Opdracht6\bin\Debug\netcoreapp3.0\Opdracht6.deps.json
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Opdrachten\Opdracht6\bin\Debug\netcoreapp3.0\Opdracht6.runtimeconfig.json
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Opdrachten\Opdracht6\bin\Debug\netcoreapp3.0\Opdracht6.runtimeconfig.dev.json
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Opdrachten\Opdracht6\bin\Debug\netcoreapp3.0\Opdracht6.dll
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Opdrachten\Opdracht6\bin\Debug\netcoreapp3.0\Opdracht6.pdb
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Opdrachten\Opdracht6\obj\Debug\netcoreapp3.0\Opdracht6.csprojAssemblyReference.cache
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Opdrachten\Opdracht6\obj\Debug\netcoreapp3.0\Opdracht6.AssemblyInfoInputs.cache
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Opdrachten\Opdracht6\obj\Debug\netcoreapp3.0\Opdracht6.AssemblyInfo.cs
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Opdrachten\Opdracht6\obj\Debug\netcoreapp3.0\Opdracht6.dll
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Opdrachten\Opdracht6\obj\Debug\netcoreapp3.0\Opdracht6.pdb
