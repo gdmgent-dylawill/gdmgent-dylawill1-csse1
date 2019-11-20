@@ -1,0 +1,11 @@
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les6\Oefening2\bin\Debug\netcoreapp3.0\Oefening2.exe
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les6\Oefening2\bin\Debug\netcoreapp3.0\Oefening2.deps.json
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les6\Oefening2\bin\Debug\netcoreapp3.0\Oefening2.runtimeconfig.json
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les6\Oefening2\bin\Debug\netcoreapp3.0\Oefening2.runtimeconfig.dev.json
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les6\Oefening2\bin\Debug\netcoreapp3.0\Oefening2.dll
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les6\Oefening2\bin\Debug\netcoreapp3.0\Oefening2.pdb
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les6\Oefening2\obj\Debug\netcoreapp3.0\Oefening2.csprojAssemblyReference.cache
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les6\Oefening2\obj\Debug\netcoreapp3.0\Oefening2.AssemblyInfoInputs.cache
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les6\Oefening2\obj\Debug\netcoreapp3.0\Oefening2.AssemblyInfo.cs
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les6\Oefening2\obj\Debug\netcoreapp3.0\Oefening2.dll
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les6\Oefening2\obj\Debug\netcoreapp3.0\Oefening2.pdb
