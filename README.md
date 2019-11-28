@@ -7,5 +7,6 @@ Repo CSSE1
 - Les 4: Variabelen en methodes
 - Les 5: Functies, Lotto - Euromillions, Accountgenerator (student/docent), IBAN checker
 - Les 6: Exceptions, Try / Catch / Finally
-- Les 7: Klassen
-- Les 8:
+- Les 7: Klassen en overerving
+- Les 8: Overloading, Overriding, Static, Abstract, UML
+- Les 9: 
