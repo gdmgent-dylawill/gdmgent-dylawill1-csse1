@@ -4,7 +4,7 @@ namespace Oefening1
 {
 	public abstract class Winkelkar
 	{
-		// Implementatie is afgeschermd
+		// Implementatie is afgeschermd (abstract)
 		public abstract void Ontgrendelen();
 
 		public abstract void Rijden();
