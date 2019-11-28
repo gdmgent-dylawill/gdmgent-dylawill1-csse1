@@ -9,4 +9,4 @@ Repo CSSE1
 - Les 6: Exceptions, Try / Catch / Finally
 - Les 7: Klassen en overerving
 - Les 8: Overloading, Overriding, Static, Abstract, UML
-- Les 9: 
+- Les 9: GDPR, Interfaces, Commentaar
