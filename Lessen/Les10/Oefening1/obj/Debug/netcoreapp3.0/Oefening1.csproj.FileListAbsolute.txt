@@ -1,0 +1,22 @@
+C:\Users\krisra\OneDrive - Arteveldehogeschool\aj1920\CSSEI\gdmgent-krisra-csse1\lessen\Les10\Oefening1\obj\Debug\netcoreapp3.0\Oefening1.csprojAssemblyReference.cache
+C:\Users\krisra\OneDrive - Arteveldehogeschool\aj1920\CSSEI\gdmgent-krisra-csse1\lessen\Les10\Oefening1\obj\Debug\netcoreapp3.0\Oefening1.AssemblyInfoInputs.cache
+C:\Users\krisra\OneDrive - Arteveldehogeschool\aj1920\CSSEI\gdmgent-krisra-csse1\lessen\Les10\Oefening1\obj\Debug\netcoreapp3.0\Oefening1.AssemblyInfo.cs
+C:\Users\krisra\OneDrive - Arteveldehogeschool\aj1920\CSSEI\gdmgent-krisra-csse1\lessen\Les10\Oefening1\bin\Debug\netcoreapp3.0\Oefening1.exe
+C:\Users\krisra\OneDrive - Arteveldehogeschool\aj1920\CSSEI\gdmgent-krisra-csse1\lessen\Les10\Oefening1\bin\Debug\netcoreapp3.0\Oefening1.deps.json
+C:\Users\krisra\OneDrive - Arteveldehogeschool\aj1920\CSSEI\gdmgent-krisra-csse1\lessen\Les10\Oefening1\bin\Debug\netcoreapp3.0\Oefening1.runtimeconfig.json
+C:\Users\krisra\OneDrive - Arteveldehogeschool\aj1920\CSSEI\gdmgent-krisra-csse1\lessen\Les10\Oefening1\bin\Debug\netcoreapp3.0\Oefening1.runtimeconfig.dev.json
+C:\Users\krisra\OneDrive - Arteveldehogeschool\aj1920\CSSEI\gdmgent-krisra-csse1\lessen\Les10\Oefening1\bin\Debug\netcoreapp3.0\Oefening1.dll
+C:\Users\krisra\OneDrive - Arteveldehogeschool\aj1920\CSSEI\gdmgent-krisra-csse1\lessen\Les10\Oefening1\bin\Debug\netcoreapp3.0\Oefening1.pdb
+C:\Users\krisra\OneDrive - Arteveldehogeschool\aj1920\CSSEI\gdmgent-krisra-csse1\lessen\Les10\Oefening1\obj\Debug\netcoreapp3.0\Oefening1.dll
+C:\Users\krisra\OneDrive - Arteveldehogeschool\aj1920\CSSEI\gdmgent-krisra-csse1\lessen\Les10\Oefening1\obj\Debug\netcoreapp3.0\Oefening1.pdb
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les10\Oefening1\bin\Debug\netcoreapp3.0\Oefening1.exe
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les10\Oefening1\bin\Debug\netcoreapp3.0\Oefening1.deps.json
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les10\Oefening1\bin\Debug\netcoreapp3.0\Oefening1.runtimeconfig.json
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les10\Oefening1\bin\Debug\netcoreapp3.0\Oefening1.runtimeconfig.dev.json
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les10\Oefening1\bin\Debug\netcoreapp3.0\Oefening1.dll
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les10\Oefening1\bin\Debug\netcoreapp3.0\Oefening1.pdb
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les10\Oefening1\obj\Debug\netcoreapp3.0\Oefening1.csprojAssemblyReference.cache
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les10\Oefening1\obj\Debug\netcoreapp3.0\Oefening1.AssemblyInfoInputs.cache
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les10\Oefening1\obj\Debug\netcoreapp3.0\Oefening1.AssemblyInfo.cs
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les10\Oefening1\obj\Debug\netcoreapp3.0\Oefening1.dll
+C:\Users\dylan\Repos CSSE1\gdmgent-dylawill1-csse1\Lessen\Les10\Oefening1\obj\Debug\netcoreapp3.0\Oefening1.pdb
