@@ -10,3 +10,5 @@ Repo CSSE1
 - Les 7: Klassen en overerving
 - Les 8: Overloading, Overriding, Static, Abstract, UML
 - Les 9: GDPR, Interfaces, Commentaar
+- Les 10: Cookies en Collecties
+- Les 11: Patronen
