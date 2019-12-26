@@ -12,3 +12,4 @@ Repo CSSE1
 - Les 9: GDPR, Interfaces, Commentaar
 - Les 10: Cookies en Collecties
 - Les 11: Patronen
+- Les 12: Ontwerppatroon Builder, Big & Open Data
